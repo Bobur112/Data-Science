@@ -292,17 +292,17 @@ juft_sonlar=list(range(120, 1201, 2))
 # katta_harf(ismlar)
 # print(ismlar)
 
-def katta_harf(matnlar):
-    matnlar = matnlar[:]
-    for i in range(len(matnlar)):
-        matnlar[i]=matnlar[i].title()   
-        return matnlar
+# def katta_harf(matnlar):
+#     matnlar = matnlar[:]
+#     for i in range(len(matnlar)):
+#         matnlar[i]=matnlar[i].title()   
+#         return matnlar
 
-ismlar = ['ali', 'vali', 'hasan', 'husan']
-yangi_ismlar = katta_harf(ismlar)
-print(ismlar)
-print(yangi_ismlar)
+# ismlar = ['ali', 'vali', 'hasan', 'husan']
+# yangi_ismlar = katta_harf(ismlar)
+# print(ismlar)
+# print(yangi_ismlar)
 
 
-
+        #   pytonga kiris bo'limidagi darslar kodi
 
